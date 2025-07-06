@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Dice Rolling Pro - Support</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .contact-box {
+            background: #fff;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.05);
+            margin-top: 20px;
+        }
+        a.button {
+            display: inline-block;
+            background-color: #2980b9;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 15px;
+        }
+        a.button:hover {
+            background-color: #3498db;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dice Rolling Pro - Support</h1>
+
+    <p>Welcome to the support page for Dice Rolling Pro. If you need assistance with your account, purchases, or game data, please review the information below.</p>
+
+    <div class="contact-box">
+        <h2>Account Deletion Issues</h2>
+        <p>If you are unable to delete your account using our <a href="https://tonict92.github.io/reset-password-page/" target="_blank">Account Deletion Page</a>, please contact us directly using the email below, and we will process your request manually.</p>
+    </div>
+
+    <div class="contact-box">
+        <h2>Purchase Issues</h2>
+        <p>If you experience issues regarding purchases, failed transactions, or refunds within Dice Rolling Pro, please contact us and include your transaction ID if possible to help us resolve your request promptly.</p>
+    </div>
+
+    <div class="contact-box">
+        <h2>Game Data Concerns</h2>
+        <p>For questions regarding your game data, progress, or related issues, please contact us for assistance.</p>
+    </div>
+
+    <div class="contact-box">
+        <h2>Contact Us</h2>
+        <p>You can contact us using the email below for any of the above issues or for general support:</p>
+        <p><strong>Email:</strong> <a href="mailto:tonitechs885@gmail.com">tonitechs885@gmail.com</a></p>
+        <a class="button" href="mailto:tonitechs885@gmail.com">Contact Support</a>
+    </div>
+
+    <p style="text-align: center; margin-top: 40px;">Thank you for using Dice Rolling Pro!</p>
+</body>
+</html>
